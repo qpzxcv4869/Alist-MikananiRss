@@ -1,4 +1,4 @@
-DOMAIN = "http://157.245.192.141:5244"
+DOMAIN = "157.245.192.141:5244"
 # DOMAIN = "localhost:5244" # 本地部署则为 localhost:port 或 127.0.0.1:port
 
 USER_NAME = "admin"
