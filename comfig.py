@@ -1,11 +1,11 @@
-DOMAIN = "www.example.com"
+DOMAIN = "http://157.245.192.141:5244"
 # DOMAIN = "localhost:5244" # 本地部署则为 localhost:port 或 127.0.0.1:port
 
-USER_NAME = "username"
+USER_NAME = "admin"
 
-PASSWORD = "password"
+PASSWORD = "admin"
 
-DOWNLOAD_PATH = "AliYun/Anime"
+DOWNLOAD_PATH = "pikpak1/anime"
 
 REGEX_PATTERN = {
     "简体": r"(简体)|(简中)|(简日)|(CHS)",
@@ -14,7 +14,7 @@ REGEX_PATTERN = {
     "非合集": r"^((?!合集).)*$",
 }
 
-SUBSCRIBE_URL = "https://mikanani.me/RSS/MyBangumi?token=xxx"
+SUBSCRIBE_URL = "https://mikanani.me/RSS/MyBangumi?token=VE7krtVGIaixJ7oBSHaSzg%3d%3d"
 
 FILTERS = ["1080", "非合集"]
 
